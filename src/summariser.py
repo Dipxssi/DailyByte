@@ -1,0 +1,1 @@
+#sends articles to ollama
